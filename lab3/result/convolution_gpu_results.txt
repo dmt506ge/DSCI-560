@@ -1,4 +1,4 @@
 GPU Convolution time (M=512, N=3): 0.0809 ms
 GPU Convolution time (M=1024, N=3): 0.0297 ms
 GPU Convolution time (M=1024, N=5): 0.0430 ms
-GPU Convolution time (M=2048, N=3): 0.0696 ms
+ GPU Convolution time (M=2048, N=3): 0.0696 ms

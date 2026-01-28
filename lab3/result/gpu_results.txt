@@ -1,0 +1,4 @@
+Naive CUDA execution time (N=512): 0.2120 ms
+Naive CUDA execution time (N=1024): 1.0895 ms
+Naive CUDA execution time (N=2048): 8.7368 ms
+Naive CUDA execution time (N=4096): 97.7510 ms

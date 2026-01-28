@@ -1,0 +1,4 @@
+Optimized CUDA (Tiled) execution time (N=512): 0.1178 ms
+Optimized CUDA (Tiled) execution time (N=1024): 0.7578 ms
+Optimized CUDA (Tiled) execution time (N=2048): 6.5464 ms
+Optimized CUDA (Tiled) execution time (N=4096): 59.6060 ms

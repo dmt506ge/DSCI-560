@@ -1,0 +1,4 @@
+CPU Convolution time (M=512, N=3): 0.003000 seconds
+CPU Convolution time (M=1024, N=3): 0.013000 seconds
+CPU Convolution time (M=1024, N=5): 0.032000 seconds
+CPU Convolution time (M=2048, N=3): 0.053000 seconds

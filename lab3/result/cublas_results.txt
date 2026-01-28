@@ -1,0 +1,4 @@
+cuBLAS execution time (N=512): 0.1782 ms
+cuBLAS execution time (N=1024): 0.2129 ms
+cuBLAS execution time (N=2048): 1.3261 ms
+cuBLAS execution time (N=4096): 5.8365 ms
